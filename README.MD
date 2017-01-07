@@ -5,8 +5,7 @@
 1. Fork/Clone
 2. Install dependencies - `npm install`
 3. Compile - `gulp compile`
-4. Change AWS Credentials (config/config.ts)
-5. Run the development server - `npm start`
+4. Run the development server - `npm start`
 
 ## API EndPoints
 ### GET EndPoints
