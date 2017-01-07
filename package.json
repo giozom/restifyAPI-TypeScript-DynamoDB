@@ -1,0 +1,25 @@
+{
+  "name": "restifyAPI-ts",
+  "version": "1.0.0",
+  "description": "RESTful API example with Restify, TypeScript, Dynamo DB and AWS SDK Promises",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4",
+    "typescript": "^2.1.4"
+  },
+  "dependencies": {
+    "@types/node": "^6.0.58",
+    "@types/restify": "^2.0.36",
+    "aws-sdk": "^2.7.21",
+    "bunyan": "^1.8.5",
+    "restify": "^4.3.0"
+  }
+}
